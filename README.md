@@ -15,17 +15,17 @@
 
 流式 SSE 聊天界面，支持 thinking + text 双阶段渲染。思考链可折叠/展开，折叠态显示首行预览。两种消息样式：AI 侧为偏暖灰白正文，用户侧为柔蓝色文字 + 左侧竖线标记。支持长按菜单（撤回 / 重刷）、多行自适应输入框、错误状态保留部分回复。背景为深蓝黑渐变 + 噪点纹理 + 暗角 + 14 颗微星。
 
-<!-- <p align="center">
-  <img src="./docs/screenshots/crowchat.jpg" width="300" />
-</p> -->
+<p align="center">
+  <img src="./docs/screenshots/crowchat.png" width="300" />
+</p>
 
 ### Mailbox — 信箱
 
 里程碑驱动的信件系统。信件按类型分类（周年 / 千页 / 万页 / 季度 / 手写），每种类型有独立的封印样式（脉冲圆点 / 暖色圆点 / 淡蓝圆点 / 破裂横线）。未读信件封印带呼吸动画。打开后以浮层信纸卡片展示，支持长内容滚动，顶部和底部带渐隐遮罩。页面底部显示当前对话总页数与下一里程碑的距离。标题文字亮度随里程碑数量动态变化。
 
-<!-- <p align="center">
-  <img src="./docs/screenshots/mailbox.jpg" width="300" />
-</p> -->
+<p align="center">
+  <img src="./docs/screenshots/mailbox.png" width="300" />
+</p>
 
 ### ColophonPage — 后记
 
@@ -35,9 +35,9 @@
 
 底部包含印刷信息区和版本号。
 
-<!-- <p align="center">
-  <img src="./docs/screenshots/colophon.jpg" width="300" />
-</p> -->
+<p align="center">
+  <img src="./docs/screenshots/colophon.png" width="300" />
+</p>
 
 ---
 
